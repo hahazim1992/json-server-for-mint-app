@@ -1,0 +1,53 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Alice",
+      "email": "alice@bank.com",
+      "status": "active",
+      "dob": "1990-05-10"
+    },
+    {
+      "id": "2",
+      "name": "Bob",
+      "email": "bob@bank.com",
+      "status": "inactive",
+      "dob": "1988-09-25"
+    },
+    {
+      "id": "9d65",
+      "name": "ddsada",
+      "email": "a@a.com",
+      "status": "active",
+      "dob": "1995-01-15"
+    },
+    {
+      "id": "9bb4",
+      "name": "fdasdas",
+      "email": "a@a.com",
+      "status": "active",
+      "dob": "2000-12-30"
+    },
+    {
+      "id": "0856",
+      "name": "rick",
+      "email": "a@a.com",
+      "status": "active",
+      "dob": "2025-06-08T16:00:00.000Z"
+    },
+    {
+      "id": "7daf",
+      "name": "michonne",
+      "email": "a@a.com",
+      "status": "inactive",
+      "dob": "2025-06-08T16:00:00.000Z"
+    },
+    {
+      "id": "ea77",
+      "name": "alpha",
+      "email": "a@a.com",
+      "status": "active",
+      "dob": "2025-06-26T16:00:00.000Z"
+    }
+  ]
+}
